@@ -16,7 +16,7 @@ Steps involved in making this Report:
 
 2. Power Pivot: Established relationship between the tables thorugh data modeling. 
 
-3. Data Analysis Expression: Utilized DAX measures including DATE function, CALCULATE function, RELATED function, DIVIDE function
+3. Data Analysis Expression: Utilized DAX measures including DATE function, CALCULATE function, RELATED function, DIVIDE function.
 
 4. Pivot table: Pivot tables facilitates comprehensive data summarization and visualization, providing a structured framework to understand complex information effectively.
 
